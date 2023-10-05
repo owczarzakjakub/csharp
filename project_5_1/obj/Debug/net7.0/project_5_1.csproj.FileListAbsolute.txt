@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\project_5_1\bin\Debug\net7.0\project_5_1.exe
+C:\Users\student\Desktop\project_5_1\bin\Debug\net7.0\project_5_1.deps.json
+C:\Users\student\Desktop\project_5_1\bin\Debug\net7.0\project_5_1.runtimeconfig.json
+C:\Users\student\Desktop\project_5_1\bin\Debug\net7.0\project_5_1.dll
+C:\Users\student\Desktop\project_5_1\bin\Debug\net7.0\project_5_1.pdb
+C:\Users\student\Desktop\project_5_1\obj\Debug\net7.0\project_5_1.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\project_5_1\obj\Debug\net7.0\project_5_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\project_5_1\obj\Debug\net7.0\project_5_1.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\project_5_1\obj\Debug\net7.0\project_5_1.AssemblyInfo.cs
+C:\Users\student\Desktop\project_5_1\obj\Debug\net7.0\project_5_1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\project_5_1\obj\Debug\net7.0\project_5_1.dll
+C:\Users\student\Desktop\project_5_1\obj\Debug\net7.0\refint\project_5_1.dll
+C:\Users\student\Desktop\project_5_1\obj\Debug\net7.0\project_5_1.pdb
+C:\Users\student\Desktop\project_5_1\obj\Debug\net7.0\project_5_1.genruntimeconfig.cache
+C:\Users\student\Desktop\project_5_1\obj\Debug\net7.0\ref\project_5_1.dll
