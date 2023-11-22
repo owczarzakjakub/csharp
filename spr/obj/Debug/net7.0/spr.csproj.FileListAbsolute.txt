@@ -1,0 +1,14 @@
+C:\Users\User\Documents\programowanietakityp\C#\spr\bin\Debug\net7.0\spr.exe
+C:\Users\User\Documents\programowanietakityp\C#\spr\bin\Debug\net7.0\spr.deps.json
+C:\Users\User\Documents\programowanietakityp\C#\spr\bin\Debug\net7.0\spr.runtimeconfig.json
+C:\Users\User\Documents\programowanietakityp\C#\spr\bin\Debug\net7.0\spr.dll
+C:\Users\User\Documents\programowanietakityp\C#\spr\bin\Debug\net7.0\spr.pdb
+C:\Users\User\Documents\programowanietakityp\C#\spr\obj\Debug\net7.0\spr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\programowanietakityp\C#\spr\obj\Debug\net7.0\spr.AssemblyInfoInputs.cache
+C:\Users\User\Documents\programowanietakityp\C#\spr\obj\Debug\net7.0\spr.AssemblyInfo.cs
+C:\Users\User\Documents\programowanietakityp\C#\spr\obj\Debug\net7.0\spr.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\programowanietakityp\C#\spr\obj\Debug\net7.0\spr.dll
+C:\Users\User\Documents\programowanietakityp\C#\spr\obj\Debug\net7.0\refint\spr.dll
+C:\Users\User\Documents\programowanietakityp\C#\spr\obj\Debug\net7.0\spr.pdb
+C:\Users\User\Documents\programowanietakityp\C#\spr\obj\Debug\net7.0\spr.genruntimeconfig.cache
+C:\Users\User\Documents\programowanietakityp\C#\spr\obj\Debug\net7.0\ref\spr.dll
