@@ -1,0 +1,14 @@
+C:\Users\User\Documents\programowanietakityp\C#\Project_8\bin\Debug\net7.0\Project_8.exe
+C:\Users\User\Documents\programowanietakityp\C#\Project_8\bin\Debug\net7.0\Project_8.deps.json
+C:\Users\User\Documents\programowanietakityp\C#\Project_8\bin\Debug\net7.0\Project_8.runtimeconfig.json
+C:\Users\User\Documents\programowanietakityp\C#\Project_8\bin\Debug\net7.0\Project_8.dll
+C:\Users\User\Documents\programowanietakityp\C#\Project_8\bin\Debug\net7.0\Project_8.pdb
+C:\Users\User\Documents\programowanietakityp\C#\Project_8\obj\Debug\net7.0\Project_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\programowanietakityp\C#\Project_8\obj\Debug\net7.0\Project_8.AssemblyInfoInputs.cache
+C:\Users\User\Documents\programowanietakityp\C#\Project_8\obj\Debug\net7.0\Project_8.AssemblyInfo.cs
+C:\Users\User\Documents\programowanietakityp\C#\Project_8\obj\Debug\net7.0\Project_8.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\programowanietakityp\C#\Project_8\obj\Debug\net7.0\Project_8.dll
+C:\Users\User\Documents\programowanietakityp\C#\Project_8\obj\Debug\net7.0\refint\Project_8.dll
+C:\Users\User\Documents\programowanietakityp\C#\Project_8\obj\Debug\net7.0\Project_8.pdb
+C:\Users\User\Documents\programowanietakityp\C#\Project_8\obj\Debug\net7.0\Project_8.genruntimeconfig.cache
+C:\Users\User\Documents\programowanietakityp\C#\Project_8\obj\Debug\net7.0\ref\Project_8.dll
