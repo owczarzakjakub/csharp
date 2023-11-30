@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\project_10\bin\Debug\net7.0\project_10.exe
+C:\Users\student\Desktop\project_10\bin\Debug\net7.0\project_10.deps.json
+C:\Users\student\Desktop\project_10\bin\Debug\net7.0\project_10.runtimeconfig.json
+C:\Users\student\Desktop\project_10\bin\Debug\net7.0\project_10.dll
+C:\Users\student\Desktop\project_10\bin\Debug\net7.0\project_10.pdb
+C:\Users\student\Desktop\project_10\obj\Debug\net7.0\project_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\project_10\obj\Debug\net7.0\project_10.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\project_10\obj\Debug\net7.0\project_10.AssemblyInfo.cs
+C:\Users\student\Desktop\project_10\obj\Debug\net7.0\project_10.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\project_10\obj\Debug\net7.0\project_10.dll
+C:\Users\student\Desktop\project_10\obj\Debug\net7.0\refint\project_10.dll
+C:\Users\student\Desktop\project_10\obj\Debug\net7.0\project_10.pdb
+C:\Users\student\Desktop\project_10\obj\Debug\net7.0\project_10.genruntimeconfig.cache
+C:\Users\student\Desktop\project_10\obj\Debug\net7.0\ref\project_10.dll
