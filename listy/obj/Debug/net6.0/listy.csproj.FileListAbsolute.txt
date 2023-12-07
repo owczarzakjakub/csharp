@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\listy\bin\Debug\net6.0\listy.exe
+C:\Users\student\Desktop\listy\bin\Debug\net6.0\listy.deps.json
+C:\Users\student\Desktop\listy\bin\Debug\net6.0\listy.runtimeconfig.json
+C:\Users\student\Desktop\listy\bin\Debug\net6.0\listy.dll
+C:\Users\student\Desktop\listy\bin\Debug\net6.0\listy.pdb
+C:\Users\student\Desktop\listy\obj\Debug\net6.0\listy.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\listy\obj\Debug\net6.0\listy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\listy\obj\Debug\net6.0\listy.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\listy\obj\Debug\net6.0\listy.AssemblyInfo.cs
+C:\Users\student\Desktop\listy\obj\Debug\net6.0\listy.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\listy\obj\Debug\net6.0\listy.dll
+C:\Users\student\Desktop\listy\obj\Debug\net6.0\refint\listy.dll
+C:\Users\student\Desktop\listy\obj\Debug\net6.0\listy.pdb
+C:\Users\student\Desktop\listy\obj\Debug\net6.0\listy.genruntimeconfig.cache
+C:\Users\student\Desktop\listy\obj\Debug\net6.0\ref\listy.dll
