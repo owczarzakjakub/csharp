@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\Project_slowniki\bin\Debug\net8.0\Project_slowniki.exe
+C:\Users\student\Desktop\Project_slowniki\bin\Debug\net8.0\Project_slowniki.deps.json
+C:\Users\student\Desktop\Project_slowniki\bin\Debug\net8.0\Project_slowniki.runtimeconfig.json
+C:\Users\student\Desktop\Project_slowniki\bin\Debug\net8.0\Project_slowniki.dll
+C:\Users\student\Desktop\Project_slowniki\bin\Debug\net8.0\Project_slowniki.pdb
+C:\Users\student\Desktop\Project_slowniki\obj\Debug\net8.0\Project_slowniki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Project_slowniki\obj\Debug\net8.0\Project_slowniki.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Project_slowniki\obj\Debug\net8.0\Project_slowniki.AssemblyInfo.cs
+C:\Users\student\Desktop\Project_slowniki\obj\Debug\net8.0\Project_slowniki.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Project_slowniki\obj\Debug\net8.0\Project_slowniki.dll
+C:\Users\student\Desktop\Project_slowniki\obj\Debug\net8.0\refint\Project_slowniki.dll
+C:\Users\student\Desktop\Project_slowniki\obj\Debug\net8.0\Project_slowniki.pdb
+C:\Users\student\Desktop\Project_slowniki\obj\Debug\net8.0\Project_slowniki.genruntimeconfig.cache
+C:\Users\student\Desktop\Project_slowniki\obj\Debug\net8.0\ref\Project_slowniki.dll
