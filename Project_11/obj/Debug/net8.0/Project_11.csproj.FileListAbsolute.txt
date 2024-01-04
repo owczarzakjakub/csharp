@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\Project_11\obj\Debug\net8.0\Project_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Project_11\obj\Debug\net8.0\Project_11.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Project_11\obj\Debug\net8.0\Project_11.AssemblyInfo.cs
+C:\Users\student\Desktop\Project_11\obj\Debug\net8.0\Project_11.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Project_11\bin\Debug\net8.0\Project_11.exe
+C:\Users\student\Desktop\Project_11\bin\Debug\net8.0\Project_11.dll.config
+C:\Users\student\Desktop\Project_11\bin\Debug\net8.0\Project_11.deps.json
+C:\Users\student\Desktop\Project_11\bin\Debug\net8.0\Project_11.runtimeconfig.json
+C:\Users\student\Desktop\Project_11\bin\Debug\net8.0\Project_11.dll
+C:\Users\student\Desktop\Project_11\bin\Debug\net8.0\Project_11.pdb
+C:\Users\student\Desktop\Project_11\obj\Debug\net8.0\Project_11.dll
+C:\Users\student\Desktop\Project_11\obj\Debug\net8.0\refint\Project_11.dll
+C:\Users\student\Desktop\Project_11\obj\Debug\net8.0\Project_11.pdb
+C:\Users\student\Desktop\Project_11\obj\Debug\net8.0\Project_11.genruntimeconfig.cache
+C:\Users\student\Desktop\Project_11\obj\Debug\net8.0\ref\Project_11.dll
