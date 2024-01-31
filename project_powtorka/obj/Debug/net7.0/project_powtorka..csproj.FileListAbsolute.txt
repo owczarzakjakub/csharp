@@ -1,0 +1,14 @@
+C:\Users\User\Documents\programowanietakityp\C#\project_powtorka\bin\Debug\net7.0\project_powtorka..exe
+C:\Users\User\Documents\programowanietakityp\C#\project_powtorka\bin\Debug\net7.0\project_powtorka..deps.json
+C:\Users\User\Documents\programowanietakityp\C#\project_powtorka\bin\Debug\net7.0\project_powtorka..runtimeconfig.json
+C:\Users\User\Documents\programowanietakityp\C#\project_powtorka\bin\Debug\net7.0\project_powtorka..dll
+C:\Users\User\Documents\programowanietakityp\C#\project_powtorka\bin\Debug\net7.0\project_powtorka..pdb
+C:\Users\User\Documents\programowanietakityp\C#\project_powtorka\obj\Debug\net7.0\project_powtorka..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\programowanietakityp\C#\project_powtorka\obj\Debug\net7.0\project_powtorka..AssemblyInfoInputs.cache
+C:\Users\User\Documents\programowanietakityp\C#\project_powtorka\obj\Debug\net7.0\project_powtorka..AssemblyInfo.cs
+C:\Users\User\Documents\programowanietakityp\C#\project_powtorka\obj\Debug\net7.0\project_powtorka..csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\programowanietakityp\C#\project_powtorka\obj\Debug\net7.0\project_powtorka..dll
+C:\Users\User\Documents\programowanietakityp\C#\project_powtorka\obj\Debug\net7.0\refint\project_powtorka..dll
+C:\Users\User\Documents\programowanietakityp\C#\project_powtorka\obj\Debug\net7.0\project_powtorka..pdb
+C:\Users\User\Documents\programowanietakityp\C#\project_powtorka\obj\Debug\net7.0\project_powtorka..genruntimeconfig.cache
+C:\Users\User\Documents\programowanietakityp\C#\project_powtorka\obj\Debug\net7.0\ref\project_powtorka..dll

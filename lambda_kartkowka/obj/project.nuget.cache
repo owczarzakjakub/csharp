@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cAXLa3hG4UA/iJNhFSFJTVQDGZjxtIvGWqR6clO7FCGWjNB0ws928NOf8oEJPw904g3pNoShKxZspx4yJ+r++w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Documents\\programowanietakityp\\C#\\lambda_kartkowka\\lambda_kartkowka.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
