@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "pCfu5JmOoZmbhZPn1BFWB+yDB7TvXxlFmzv2pty3e9Xi3CZdTZ6v/AsbA2M524oJyP770adoMJ4lJMssBW7ErQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\student\\Desktop\\klasy_parking\\klasy_parking\\klasy_parking.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.DotNet.ILCompiler. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.DotNet.ILCompiler",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NET.ILLink.Tasks. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NET.ILLink.Tasks",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package runtime.win-x64.Microsoft.DotNet.ILCompiler. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "runtime.win-x64.Microsoft.DotNet.ILCompiler",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
