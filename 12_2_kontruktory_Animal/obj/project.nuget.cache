@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "QM3cTR3K5/+zrnxHU/KCXO3ZH/5M27YT6SKIQz0Pu0/3FijLUvw3fThUznYn4AlbzVFpXULlzFcw2rhKUgxodQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\student\\Desktop\\12_2_kontruktory_Animal\\12_2_kontruktory_Animal.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Nie można znaleźć pakietu Microsoft.DotNet.ILCompiler. W źródłach nie istnieją pakiety z tym identyfikatorem: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.DotNet.ILCompiler",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Nie można znaleźć pakietu Microsoft.NET.ILLink.Tasks. W źródłach nie istnieją pakiety z tym identyfikatorem: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NET.ILLink.Tasks",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Nie można znaleźć pakietu runtime.win-x64.Microsoft.DotNet.ILCompiler. W źródłach nie istnieją pakiety z tym identyfikatorem: Microsoft Visual Studio Offline Packages",
+      "libraryId": "runtime.win-x64.Microsoft.DotNet.ILCompiler",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
