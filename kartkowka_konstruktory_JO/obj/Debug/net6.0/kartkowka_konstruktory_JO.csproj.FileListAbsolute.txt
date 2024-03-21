@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\kartkowka_konstruktory_JO\bin\Debug\net6.0\kartkowka_konstruktory_JO.exe
+C:\Users\student\Desktop\kartkowka_konstruktory_JO\bin\Debug\net6.0\kartkowka_konstruktory_JO.deps.json
+C:\Users\student\Desktop\kartkowka_konstruktory_JO\bin\Debug\net6.0\kartkowka_konstruktory_JO.runtimeconfig.json
+C:\Users\student\Desktop\kartkowka_konstruktory_JO\bin\Debug\net6.0\kartkowka_konstruktory_JO.dll
+C:\Users\student\Desktop\kartkowka_konstruktory_JO\bin\Debug\net6.0\kartkowka_konstruktory_JO.pdb
+C:\Users\student\Desktop\kartkowka_konstruktory_JO\obj\Debug\net6.0\kartkowka_konstruktory_JO.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\kartkowka_konstruktory_JO\obj\Debug\net6.0\kartkowka_konstruktory_JO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\kartkowka_konstruktory_JO\obj\Debug\net6.0\kartkowka_konstruktory_JO.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\kartkowka_konstruktory_JO\obj\Debug\net6.0\kartkowka_konstruktory_JO.AssemblyInfo.cs
+C:\Users\student\Desktop\kartkowka_konstruktory_JO\obj\Debug\net6.0\kartkowka_konstruktory_JO.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\kartkowka_konstruktory_JO\obj\Debug\net6.0\kartkowka_konstruktory_JO.dll
+C:\Users\student\Desktop\kartkowka_konstruktory_JO\obj\Debug\net6.0\refint\kartkowka_konstruktory_JO.dll
+C:\Users\student\Desktop\kartkowka_konstruktory_JO\obj\Debug\net6.0\kartkowka_konstruktory_JO.pdb
+C:\Users\student\Desktop\kartkowka_konstruktory_JO\obj\Debug\net6.0\kartkowka_konstruktory_JO.genruntimeconfig.cache
+C:\Users\student\Desktop\kartkowka_konstruktory_JO\obj\Debug\net6.0\ref\kartkowka_konstruktory_JO.dll
