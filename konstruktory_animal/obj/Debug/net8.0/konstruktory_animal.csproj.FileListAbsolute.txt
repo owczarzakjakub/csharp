@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\konstruktory_animal\bin\Debug\net8.0\konstruktory_animal.exe
+C:\Users\student\Desktop\konstruktory_animal\bin\Debug\net8.0\konstruktory_animal.deps.json
+C:\Users\student\Desktop\konstruktory_animal\bin\Debug\net8.0\konstruktory_animal.runtimeconfig.json
+C:\Users\student\Desktop\konstruktory_animal\bin\Debug\net8.0\konstruktory_animal.dll
+C:\Users\student\Desktop\konstruktory_animal\bin\Debug\net8.0\konstruktory_animal.pdb
+C:\Users\student\Desktop\konstruktory_animal\obj\Debug\net8.0\konstruktory_animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\konstruktory_animal\obj\Debug\net8.0\konstruktory_animal.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\konstruktory_animal\obj\Debug\net8.0\konstruktory_animal.AssemblyInfo.cs
+C:\Users\student\Desktop\konstruktory_animal\obj\Debug\net8.0\konstruktory_animal.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\konstruktory_animal\obj\Debug\net8.0\konstruktory_animal.dll
+C:\Users\student\Desktop\konstruktory_animal\obj\Debug\net8.0\refint\konstruktory_animal.dll
+C:\Users\student\Desktop\konstruktory_animal\obj\Debug\net8.0\konstruktory_animal.pdb
+C:\Users\student\Desktop\konstruktory_animal\obj\Debug\net8.0\konstruktory_animal.genruntimeconfig.cache
+C:\Users\student\Desktop\konstruktory_animal\obj\Debug\net8.0\ref\konstruktory_animal.dll
