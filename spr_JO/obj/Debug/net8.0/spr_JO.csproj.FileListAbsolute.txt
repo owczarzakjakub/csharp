@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\spr_JO\bin\Debug\net8.0\spr_JO.exe
+C:\Users\student\Desktop\spr_JO\bin\Debug\net8.0\spr_JO.deps.json
+C:\Users\student\Desktop\spr_JO\bin\Debug\net8.0\spr_JO.runtimeconfig.json
+C:\Users\student\Desktop\spr_JO\bin\Debug\net8.0\spr_JO.dll
+C:\Users\student\Desktop\spr_JO\bin\Debug\net8.0\spr_JO.pdb
+C:\Users\student\Desktop\spr_JO\obj\Debug\net8.0\spr_JO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\spr_JO\obj\Debug\net8.0\spr_JO.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\spr_JO\obj\Debug\net8.0\spr_JO.AssemblyInfo.cs
+C:\Users\student\Desktop\spr_JO\obj\Debug\net8.0\spr_JO.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\spr_JO\obj\Debug\net8.0\spr_JO.dll
+C:\Users\student\Desktop\spr_JO\obj\Debug\net8.0\refint\spr_JO.dll
+C:\Users\student\Desktop\spr_JO\obj\Debug\net8.0\spr_JO.pdb
+C:\Users\student\Desktop\spr_JO\obj\Debug\net8.0\spr_JO.genruntimeconfig.cache
+C:\Users\student\Desktop\spr_JO\obj\Debug\net8.0\ref\spr_JO.dll
