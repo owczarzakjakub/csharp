@@ -1,0 +1,16 @@
+C:\Users\student\Desktop\project1_dziedzicenie\bin\Debug\net5.0\project1_dziedzicenie.exe
+C:\Users\student\Desktop\project1_dziedzicenie\bin\Debug\net5.0\project1_dziedzicenie.deps.json
+C:\Users\student\Desktop\project1_dziedzicenie\bin\Debug\net5.0\project1_dziedzicenie.runtimeconfig.json
+C:\Users\student\Desktop\project1_dziedzicenie\bin\Debug\net5.0\project1_dziedzicenie.runtimeconfig.dev.json
+C:\Users\student\Desktop\project1_dziedzicenie\bin\Debug\net5.0\project1_dziedzicenie.dll
+C:\Users\student\Desktop\project1_dziedzicenie\bin\Debug\net5.0\ref\project1_dziedzicenie.dll
+C:\Users\student\Desktop\project1_dziedzicenie\bin\Debug\net5.0\project1_dziedzicenie.pdb
+C:\Users\student\Desktop\project1_dziedzicenie\obj\Debug\net5.0\project1_dziedzicenie.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\project1_dziedzicenie\obj\Debug\net5.0\project1_dziedzicenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\project1_dziedzicenie\obj\Debug\net5.0\project1_dziedzicenie.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\project1_dziedzicenie\obj\Debug\net5.0\project1_dziedzicenie.AssemblyInfo.cs
+C:\Users\student\Desktop\project1_dziedzicenie\obj\Debug\net5.0\project1_dziedzicenie.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\project1_dziedzicenie\obj\Debug\net5.0\project1_dziedzicenie.dll
+C:\Users\student\Desktop\project1_dziedzicenie\obj\Debug\net5.0\ref\project1_dziedzicenie.dll
+C:\Users\student\Desktop\project1_dziedzicenie\obj\Debug\net5.0\project1_dziedzicenie.pdb
+C:\Users\student\Desktop\project1_dziedzicenie\obj\Debug\net5.0\project1_dziedzicenie.genruntimeconfig.cache
