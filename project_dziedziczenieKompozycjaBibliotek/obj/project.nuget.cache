@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "C/xri6FglzE=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\student\\source\\repos\\project_dziedziczenieKompozycjaBibliotek\\project_dziedziczenieKompozycjaBibliotek.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Nie można znaleźć pakietu Microsoft.DotNet.ILCompiler. W źródłach nie istnieją pakiety z tym identyfikatorem: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.DotNet.ILCompiler",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Nie można znaleźć pakietu Microsoft.NET.ILLink.Tasks. W źródłach nie istnieją pakiety z tym identyfikatorem: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NET.ILLink.Tasks",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Nie można znaleźć pakietu runtime.win-x64.Microsoft.DotNet.ILCompiler. W źródłach nie istnieją pakiety z tym identyfikatorem: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "runtime.win-x64.Microsoft.DotNet.ILCompiler",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
