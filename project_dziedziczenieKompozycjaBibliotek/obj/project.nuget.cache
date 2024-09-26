@@ -1,36 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "C/xri6FglzE=",
-  "success": false,
-  "projectFilePath": "C:\\Users\\student\\source\\repos\\project_dziedziczenieKompozycjaBibliotek\\project_dziedziczenieKompozycjaBibliotek.csproj",
-  "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1101",
-      "level": "Error",
-      "message": "Nie można znaleźć pakietu Microsoft.DotNet.ILCompiler. W źródłach nie istnieją pakiety z tym identyfikatorem: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
-      "libraryId": "Microsoft.DotNet.ILCompiler",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    },
-    {
-      "code": "NU1101",
-      "level": "Error",
-      "message": "Nie można znaleźć pakietu Microsoft.NET.ILLink.Tasks. W źródłach nie istnieją pakiety z tym identyfikatorem: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
-      "libraryId": "Microsoft.NET.ILLink.Tasks",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    },
-    {
-      "code": "NU1101",
-      "level": "Error",
-      "message": "Nie można znaleźć pakietu runtime.win-x64.Microsoft.DotNet.ILCompiler. W źródłach nie istnieją pakiety z tym identyfikatorem: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
-      "libraryId": "runtime.win-x64.Microsoft.DotNet.ILCompiler",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "dgSpecHash": "CyUAesRYK5uFeSrIFofflp7NvJXhIInkuvx1NMSKQsBBe3jpBqkFRiHgQDLnXnWLjIfA944a8wQDzhhhDi59Sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\student\\Desktop\\project_dziedziczenieKompozycjaBibliotek\\project_dziedziczenieKompozycjaBibliotek.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.8\\microsoft.dotnet.ilcompiler.8.0.8.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.8\\microsoft.net.illink.tasks.8.0.8.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.8\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
 }

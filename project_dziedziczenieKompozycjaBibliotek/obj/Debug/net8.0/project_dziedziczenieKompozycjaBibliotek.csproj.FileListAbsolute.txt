@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\project_dziedziczenieKompozycjaBibliotek\bin\Debug\net8.0\project_dziedziczenieKompozycjaBibliotek.exe
+C:\Users\student\Desktop\project_dziedziczenieKompozycjaBibliotek\bin\Debug\net8.0\project_dziedziczenieKompozycjaBibliotek.deps.json
+C:\Users\student\Desktop\project_dziedziczenieKompozycjaBibliotek\bin\Debug\net8.0\project_dziedziczenieKompozycjaBibliotek.runtimeconfig.json
+C:\Users\student\Desktop\project_dziedziczenieKompozycjaBibliotek\bin\Debug\net8.0\project_dziedziczenieKompozycjaBibliotek.dll
+C:\Users\student\Desktop\project_dziedziczenieKompozycjaBibliotek\bin\Debug\net8.0\project_dziedziczenieKompozycjaBibliotek.pdb
+C:\Users\student\Desktop\project_dziedziczenieKompozycjaBibliotek\obj\Debug\net8.0\project_dziedziczenieKompozycjaBibliotek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\project_dziedziczenieKompozycjaBibliotek\obj\Debug\net8.0\project_dziedziczenieKompozycjaBibliotek.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\project_dziedziczenieKompozycjaBibliotek\obj\Debug\net8.0\project_dziedziczenieKompozycjaBibliotek.AssemblyInfo.cs
+C:\Users\student\Desktop\project_dziedziczenieKompozycjaBibliotek\obj\Debug\net8.0\project_dziedziczenieKompozycjaBibliotek.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\project_dziedziczenieKompozycjaBibliotek\obj\Debug\net8.0\project_dziedziczenieKompozycjaBibliotek.dll
+C:\Users\student\Desktop\project_dziedziczenieKompozycjaBibliotek\obj\Debug\net8.0\refint\project_dziedziczenieKompozycjaBibliotek.dll
+C:\Users\student\Desktop\project_dziedziczenieKompozycjaBibliotek\obj\Debug\net8.0\project_dziedziczenieKompozycjaBibliotek.pdb
+C:\Users\student\Desktop\project_dziedziczenieKompozycjaBibliotek\obj\Debug\net8.0\project_dziedziczenieKompozycjaBibliotek.genruntimeconfig.cache
+C:\Users\student\Desktop\project_dziedziczenieKompozycjaBibliotek\obj\Debug\net8.0\ref\project_dziedziczenieKompozycjaBibliotek.dll

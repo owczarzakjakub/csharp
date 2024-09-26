@@ -50,10 +50,47 @@ namespace project_dziedziczenieKompozycjaBibliotek
         public void BorrowBook(Book book)
         {
             BorrowedBookList.Add(book);
-            Console.WriteLine($"Ksiazka {book} zostala wypozyczona");
+            Console.WriteLine($"Ksiazka o tytule {book.Title} zostala wypozyczona przez {FirstName}");
         }
 
-    } 
+    }
+    public class Library
+    {
+        public List<Book> BooksList { get; set; }
+        public List<Reader> ReadersList { get; set; }
+
+        public Library()
+        {
+            BooksList = new List<Book>();
+            ReadersList = new List<Reader>();
+        }
+
+        public void addBooks(Book book)
+        {
+            BooksList.Add(book);
+            Console.WriteLine($"Dodano ksiazke o tytule {book.Title} do biblioteki");
+        }
+
+        public void addReaders(Reader reader)
+        {
+            ReadersList.Add(reader);
+            Console.WriteLine($"Czytelnik {reader.FirstName} {reader.LastName} zostal dodany do biblioteki");
+        }
+
+        public void BorrowBook(Reader reader, Book book)
+        {
+            if (BooksList.Contains(book))
+            {
+                reader.BorrowBook(book);
+                BooksList.Remove(book);
+                
+            }
+            else{
+                Console.WriteLine("Ksiazka jest niedostepna");
+            }
+        }
+
+    }
 
     internal class Program
     {
@@ -62,6 +99,14 @@ namespace project_dziedziczenieKompozycjaBibliotek
             Author author = new Author("Adam", "Mickiewicz");
             Book book = new Book("Pan Tadeusz", author, 1834);
             author.AddBook(book);
+
+            Reader reader = new Reader("kotomiler", "wampir");
+            reader.BorrowBook(book);
+            
+            Library library = new Library();
+            library.addReaders(reader);
+            library.addBooks(book);
+            library.BorrowBook(reader, book);
 
             Console.ReadKey();
         }
