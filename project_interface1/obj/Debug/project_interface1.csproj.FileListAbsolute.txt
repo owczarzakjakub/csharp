@@ -1,0 +1,7 @@
+C:\Users\student\source\repos\project_interface1\bin\Debug\project_interface1.exe.config
+C:\Users\student\source\repos\project_interface1\bin\Debug\project_interface1.exe
+C:\Users\student\source\repos\project_interface1\bin\Debug\project_interface1.pdb
+C:\Users\student\source\repos\project_interface1\obj\Debug\project_interface1.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\project_interface1\obj\Debug\project_interface1.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\project_interface1\obj\Debug\project_interface1.exe
+C:\Users\student\source\repos\project_interface1\obj\Debug\project_interface1.pdb
