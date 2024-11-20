@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Warsztat\bin\Debug\Warsztat.exe.config
+C:\Users\User\source\repos\Warsztat\bin\Debug\Warsztat.exe
+C:\Users\User\source\repos\Warsztat\bin\Debug\Warsztat.pdb
+C:\Users\User\source\repos\Warsztat\obj\Debug\Warsztat.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Warsztat\obj\Debug\Warsztat.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Warsztat\obj\Debug\Warsztat.exe
+C:\Users\User\source\repos\Warsztat\obj\Debug\Warsztat.pdb
