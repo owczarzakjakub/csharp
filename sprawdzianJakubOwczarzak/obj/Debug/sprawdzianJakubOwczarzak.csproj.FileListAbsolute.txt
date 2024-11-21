@@ -1,0 +1,7 @@
+C:\Users\student\Desktop\sprawdzianJakubOwczarzak\bin\Debug\sprawdzianJakubOwczarzak.exe.config
+C:\Users\student\Desktop\sprawdzianJakubOwczarzak\bin\Debug\sprawdzianJakubOwczarzak.exe
+C:\Users\student\Desktop\sprawdzianJakubOwczarzak\bin\Debug\sprawdzianJakubOwczarzak.pdb
+C:\Users\student\Desktop\sprawdzianJakubOwczarzak\obj\Debug\sprawdzianJakubOwczarzak.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\sprawdzianJakubOwczarzak\obj\Debug\sprawdzianJakubOwczarzak.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\sprawdzianJakubOwczarzak\obj\Debug\sprawdzianJakubOwczarzak.exe
+C:\Users\student\Desktop\sprawdzianJakubOwczarzak\obj\Debug\sprawdzianJakubOwczarzak.pdb
