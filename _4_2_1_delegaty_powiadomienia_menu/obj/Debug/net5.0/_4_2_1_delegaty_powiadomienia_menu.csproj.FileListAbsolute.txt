@@ -1,0 +1,16 @@
+C:\Users\student\Desktop\_4_2_1_delegaty_powiadomienia_menu\obj\Debug\net5.0\_4_2_1_delegaty_powiadomienia_menu.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\_4_2_1_delegaty_powiadomienia_menu\obj\Debug\net5.0\_4_2_1_delegaty_powiadomienia_menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\_4_2_1_delegaty_powiadomienia_menu\obj\Debug\net5.0\_4_2_1_delegaty_powiadomienia_menu.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\_4_2_1_delegaty_powiadomienia_menu\obj\Debug\net5.0\_4_2_1_delegaty_powiadomienia_menu.AssemblyInfo.cs
+C:\Users\student\Desktop\_4_2_1_delegaty_powiadomienia_menu\obj\Debug\net5.0\_4_2_1_delegaty_powiadomienia_menu.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\_4_2_1_delegaty_powiadomienia_menu\bin\Debug\net5.0\_4_2_1_delegaty_powiadomienia_menu.exe
+C:\Users\student\Desktop\_4_2_1_delegaty_powiadomienia_menu\bin\Debug\net5.0\_4_2_1_delegaty_powiadomienia_menu.deps.json
+C:\Users\student\Desktop\_4_2_1_delegaty_powiadomienia_menu\bin\Debug\net5.0\_4_2_1_delegaty_powiadomienia_menu.runtimeconfig.json
+C:\Users\student\Desktop\_4_2_1_delegaty_powiadomienia_menu\bin\Debug\net5.0\_4_2_1_delegaty_powiadomienia_menu.runtimeconfig.dev.json
+C:\Users\student\Desktop\_4_2_1_delegaty_powiadomienia_menu\bin\Debug\net5.0\_4_2_1_delegaty_powiadomienia_menu.dll
+C:\Users\student\Desktop\_4_2_1_delegaty_powiadomienia_menu\bin\Debug\net5.0\ref\_4_2_1_delegaty_powiadomienia_menu.dll
+C:\Users\student\Desktop\_4_2_1_delegaty_powiadomienia_menu\bin\Debug\net5.0\_4_2_1_delegaty_powiadomienia_menu.pdb
+C:\Users\student\Desktop\_4_2_1_delegaty_powiadomienia_menu\obj\Debug\net5.0\_4_2_1_delegaty_powiadomienia_menu.dll
+C:\Users\student\Desktop\_4_2_1_delegaty_powiadomienia_menu\obj\Debug\net5.0\ref\_4_2_1_delegaty_powiadomienia_menu.dll
+C:\Users\student\Desktop\_4_2_1_delegaty_powiadomienia_menu\obj\Debug\net5.0\_4_2_1_delegaty_powiadomienia_menu.pdb
+C:\Users\student\Desktop\_4_2_1_delegaty_powiadomienia_menu\obj\Debug\net5.0\_4_2_1_delegaty_powiadomienia_menu.genruntimeconfig.cache
