@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\_6_1_pola_wlsciwosci\bin\Debug\net9.0\_6_1_pola_wlsciwosci.exe
+C:\Users\student\Desktop\_6_1_pola_wlsciwosci\bin\Debug\net9.0\_6_1_pola_wlsciwosci.deps.json
+C:\Users\student\Desktop\_6_1_pola_wlsciwosci\bin\Debug\net9.0\_6_1_pola_wlsciwosci.runtimeconfig.json
+C:\Users\student\Desktop\_6_1_pola_wlsciwosci\bin\Debug\net9.0\_6_1_pola_wlsciwosci.dll
+C:\Users\student\Desktop\_6_1_pola_wlsciwosci\bin\Debug\net9.0\_6_1_pola_wlsciwosci.pdb
+C:\Users\student\Desktop\_6_1_pola_wlsciwosci\obj\Debug\net9.0\_6_1_pola_wlsciwosci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\_6_1_pola_wlsciwosci\obj\Debug\net9.0\_6_1_pola_wlsciwosci.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\_6_1_pola_wlsciwosci\obj\Debug\net9.0\_6_1_pola_wlsciwosci.AssemblyInfo.cs
+C:\Users\student\Desktop\_6_1_pola_wlsciwosci\obj\Debug\net9.0\_6_1_pola_wlsciwosci.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\_6_1_pola_wlsciwosci\obj\Debug\net9.0\_6_1_pola_wlsciwosci.dll
+C:\Users\student\Desktop\_6_1_pola_wlsciwosci\obj\Debug\net9.0\refint\_6_1_pola_wlsciwosci.dll
+C:\Users\student\Desktop\_6_1_pola_wlsciwosci\obj\Debug\net9.0\_6_1_pola_wlsciwosci.pdb
+C:\Users\student\Desktop\_6_1_pola_wlsciwosci\obj\Debug\net9.0\_6_1_pola_wlsciwosci.genruntimeconfig.cache
+C:\Users\student\Desktop\_6_1_pola_wlsciwosci\obj\Debug\net9.0\ref\_6_1_pola_wlsciwosci.dll
